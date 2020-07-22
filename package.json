@@ -1,7 +1,7 @@
 {
   "name": "grunt-htmllint",
   "description": "A grunt plugin for the unofficial HTML5 linter.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/htmllint/grunt-htmllint",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": "^12.18.0"
   },
   "scripts": {
     "test": "grunt"
